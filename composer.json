@@ -1,0 +1,8 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.8",
+        "phpseclib/phpseclib": "~3.0",
+        "doctrine/orm": "^2.17",
+        "league/oauth2-client": "^0.12.1"
+    }
+}
